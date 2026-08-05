@@ -1,0 +1,33 @@
+# Voice Assistant
+
+## Oasis Infobyte Python Programming Internship
+
+### Task 1 - Voice Assistant
+
+This project is a simple Voice Assistant developed using Python.
+
+## Features
+* Speaks responses using Microsoft Edge TTS
+* Opens Google
+* Opens YouTube
+* Opens GitHub
+* Tells the current time
+* Exits on command
+
+## Technologies Used
+* Python
+* edge-tts
+* webbrowser
+* datetime
+* asyncio
+
+## Commands
+* hello
+* time
+* google
+* youtube
+* github
+* exit
+
+## Author
+Avni Sharma
